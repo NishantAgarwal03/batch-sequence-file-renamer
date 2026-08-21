@@ -2,6 +2,10 @@
 
 Batch Sequence File Renamer is a Windows utility for renaming files and folders in a user-defined order with sequence tokens, pattern-based output, and rollback support.
 
+## Application Preview
+
+![Batch Sequence File Renamer v1.1 interface](assets/rename.png)
+
 This repository is intentionally selective:
 
 - The current release is `v1.1.0`, distributed as a standalone Windows executable through GitHub Releases.
