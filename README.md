@@ -46,3 +46,7 @@ This repository uses a narrative public history rather than a complete developme
 ## Notes
 
 The public repo is maintained as a polished showcase and download page, not as an active public development workspace.
+
+## Support
+
+[Donate](https://drive.google.com/file/d/14KBkEcr6j4KaxDHcHyejdYlFDt4GjR6O/view?usp=drive_link)
